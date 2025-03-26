@@ -55,6 +55,7 @@ header .menu {
 }
 
 .slider .list .item img {
+  margin-top: 30px;
   max-width: 100%;
     width: 100%;
     height: auto;
@@ -125,7 +126,7 @@ header .menu {
 }
 .arrows {
     position: absolute;
-    top: 30%;
+    top: 50%;
     right: 50px;
     z-index: 100;
 }
@@ -198,6 +199,6 @@ header .menu {
     }
 
     .arrows {
-        top: 10%;
+        top: 50%;
     }
 }
