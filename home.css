@@ -5,7 +5,7 @@
 
 body {
     margin: 0;
-    background-color: white;
+    background-color: #121212;
     color: #eee;
 }
 
@@ -55,8 +55,9 @@ header .menu {
 }
 
 .slider .list .item img {
+  max-width: 100%;
     width: 100%;
-    height: 100%;
+    height: auto;
     object-fit: cover;
 }
 .slider .list .item::after {
